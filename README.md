@@ -1,2 +1,2 @@
 # poo68
-Clase programacion orientada a objetos
+Object Oriented Programming Repository
